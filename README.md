@@ -4,9 +4,12 @@ Multiple cube exercise by html and css.
 
 ## Features
 
-- Html container and list
-- Css variable
-- Css positioning and transform
+- HTML containers
+- HTML list
+- CSS variables
+- CSS positioning
+- CSS transform
+- CSS filter
 
 ## Tools
 
@@ -15,4 +18,4 @@ Multiple cube exercise by html and css.
 
 # Screenshot
 
-![multiple cube exercise screenshot](/preview.png)
+![Screenshot of multiple cube exercise screenshot](./preview.png)
